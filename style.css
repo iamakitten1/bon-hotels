@@ -49,7 +49,7 @@ h1 {
 
 .first-section {
     background-image: url(./assets/main-img.png);
-    height: 100vh;
+    height:100mhv;
     background-repeat: no-repeat;
     background-position: auto;
     background-size: cover;
@@ -214,3 +214,15 @@ h1 {
 .third-section{
     margin-bottom: 123px;
 }
+
+
+
+
+/* footer  */
+ .footer{
+    background: fixed;
+    background-color: black;
+    width: 1440px;
+    height: 459px;
+   
+ }
